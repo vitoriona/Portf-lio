@@ -7,7 +7,9 @@
  - O objetivo desse projeto é apenas aprendizagem
  - Varias coisas aleatorias poderam ser adicionados no projeto com intuito de pratica
  
- - [ ] Mysql (Será implementado)
+ ## Linguagens ##
+ 
+ - [ ] Mysql **(Será implementado)**
  - [X] HTML
  - [X] CSS
  - [X] JavaScript
